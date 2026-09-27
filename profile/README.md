@@ -1,37 +1,80 @@
+<h1 align="center">
+  🐉🔥 Renderdragon 🔥🐉
+</h1>
+
 <p align="center">
-  <img
-    width="800"
-    height="533"
-    alt="Renderdragon banner"
-    src="https://github.com/user-attachments/assets/ac678ed1-4a08-4db2-a6c4-a8fedf4ffe05"
-  />
+  <img src="https://renderdragon.org/renderdragon.png" alt="Renderdragon Logo" width="200" />
 </p>
 
-# Renderdragon
+<p align="center">
+  <b>FREE Tools & Assets for Minecraft & Gaming YouTube Creators</b><br>
+  No ads. No gimmicks. Just pure creative power.<br>
+  <a href="https://renderdragon.org">🌐 renderdragon.org</a> •
+  <a href="https://discord.com/invite/d9zxkkdBWV">💬 Join our Discord</a>
+</p>
 
-**Free tools, assets, and guides for creators.**
+---
 
-Renderdragon is an open organisation built to make content creation more accessible.  
-We create tools, share resources, and publish guides that help people build, learn, and create.
+## 🧱 What is Renderdragon?
 
-Whether you are developing a game, making music, building software, or learning a new creative skill, our goal is to give you useful projects without unnecessary barriers.
+**Renderdragon** is your ultimate toolkit for creating **Minecraft YouTube content**. Whether you're crafting a cinematic masterpiece or just getting started with Let’s Plays, we’ve got you covered — **totally free** and **ad-free**.
 
-## What we build
+### 🔧 Included Tools:
+- 🎵 Royalty-Free **Music & SFX Library**
+- 🎬 **Animations** & visual overlays
+- 🤖 **AI-Powered Title Generator**
+- 📥 **YouTube Video Downloader**
+- ⚠️ **Copyright Checker**
 
-- Creator tools and applications
-- Open-source projects
-- Assets and useful resources
-- Tutorials, guides, and learning material
-- Community and Discord integrations
+> All with a **pixel art** feel and built just for creators.
 
-## Explore
+---
 
-- Browse our repositories below to find current tools and experiments.
-- Check each project README for setup instructions, features, and contribution information.
-- Report bugs, suggest ideas, or contribute through GitHub Issues and Pull Requests.
+## 🚀 Why Renderdragon?
 
-## Our goal
+- 🟩 **No ads, no sketchy popups**
+- 🟦 Built **by creators, for creators**
+- 🟨 Everything tailored for **Minecraft content**
+- 🟪 Beautiful retro UI with **pixel art** aesthetic
+- 🟥 100% **free to use**, forever
 
-We believe creative tools should be accessible. Renderdragon exists to help people create, learn, and share more freely.
+---
 
-> Building useful things for creators, one project at a time.
+## 🐉 Our Mascot
+
+Meet the **Enderdragon with fire breath** — our fierce but friendly symbol of power, creativity, and Minecraft-y goodness. 🔥
+
+---
+
+## 📡 Join the Community
+
+💬 Hop into the conversation and get sneak peeks of new assets:
+👉 [discord.renderdragon.org](https://discord.renderdragon.org)
+
+---
+
+## 📎 Links
+
+- 🌐 Website: [renderdragon.org](https://renderdragon.org)
+- 📢 Twitter: https://x.com/_renderdragon
+- 🎥 YouTube: https://www.youtube.com/channel/UCOheNYpPEHcS2ljttRmllxg
+
+---
+
+## 🛠️ Tech Stack (for the curious)
+
+> Built using **Vite**, **React**, **Tailwind css**, **Shadcn/ui**, and a dash of **voxel magic**.
+
+---
+
+## ⭐ Support / Contribute
+
+Right now we're focused on helping creators — not donations. If you want to contribute, join our [Discord](https://discord.renderdragon.org), share your ideas, or help spread the word!
+
+> 💚 Built with passion for Minecraft creators everywhere.
+
+---
+
+<p align="center">
+  <i>"Fuel your channel. Feed the dragon."</i> 🐉
+</p>
